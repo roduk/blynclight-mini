@@ -1,6 +1,6 @@
 {
   "name": "blynclight-mini",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Blynclight Mini module for NodeJS using node-hid",
   "main": "lib/blync.js",
   "dependencies": {
