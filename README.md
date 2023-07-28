@@ -2,21 +2,21 @@
 
 This unofficial library allows control of the [Blynclight Mini](https://embrava.com/products/blynclight-mini) device.
 
+This module has only been tested on Windows 10 (x64).
+
 [Official Blynclight SDK](https://www.embrava.com/pages/embrava-software-sdk)
 
 Forked from:
 - [node-blync-USB30](https://github.com/julienstroheker/node-blync-USB30)
 - [node-blync](https://github.com/justmoon/node-blync)
 
-### Requirements
-- At the moment, this module has been tested only on Windows 10.
 ### Usage
 ```sh
 npm install node-blynclight-mini
 ```
 
 ``` js
-const blync = require('node-blynclight-mini');
+const blync = require('blynclight-mini');
 
 let device;
 
