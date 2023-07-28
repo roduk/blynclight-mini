@@ -2,8 +2,6 @@
 
 This unofficial library allows control of the [Blynclight Mini](https://embrava.com/products/blynclight-mini) device.
 
-This module has only been tested on Windows 10 (x64).
-
 [Official Blynclight SDK](https://www.embrava.com/pages/embrava-software-sdk)
 
 Forked from:
